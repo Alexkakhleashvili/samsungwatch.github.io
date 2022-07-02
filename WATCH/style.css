@@ -1,0 +1,161 @@
+.clear{
+	clear: right;
+}
+
+.yvelaferi{
+	
+}
+
+
+.display{
+	display: inline-block;
+}
+
+
+.watch1{
+	display: inline-block;
+	width: 700px;
+	height: 700px;
+	margin-left:413px;
+	left: 20%;
+	margin-top: 21px;
+	
+	background-blend-mode: screen;
+	cursor: pointer;
+	float: right;
+	mix-blend-mode: darken;
+	transition: 2s;
+	
+}
+.watch1:hover{
+	mix-blend-mode: normal;
+}
+
+
+
+
+.now{
+	font-size: 30px;
+	margin-top: 27px;
+	color: #6A6B6D;
+	font-family: 'Verdana';
+	justify-content: center;
+	appearance: none;
+	background: none;
+	border: none;
+	outline-style: none;
+	cursor: pointer;
+	font-weight: 600;
+	border-radius: 8px;
+	transition: 0.4s;
+	border: 3px solid #6A6B6D;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-right: 31px;
+	padding-left: 32px;
+}
+.now:hover {
+	color: #fff;
+	background-color: #F34C28;
+}
+
+/*.buy{
+	width: 184px;
+	height: 56px;
+	border: 5px solid #6A6B6D;
+	border-radius: 22px;
+	margin-top: 27px;
+	position: fixed;
+*/
+
+.more{
+	color: #F34C28;
+	cursor: pointer;
+}
+.paragraph{
+font-size:	23px;
+height: 109px;
+color: #6A6B6D;
+margin-top: 4px;
+font-family: 'Verdana';
+line-height:27px ;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+
+}
+
+.gear1{
+	width: 474px;
+	height: 395px;
+	display: inline-block;
+	
+	margin-top: 172px;
+	margin-bottom:245px ;
+
+	vertical-align: middle;
+	position: absolute;
+	margin-left: 218px;
+	;
+}
+.s3 {
+	font-size: 90px;
+	color: #F34C28;
+	font-family: 'Verdana';
+	line-height: 90px;
+	transition: 0.2s;
+}
+
+
+.seqcia{
+	background-color: #131514;
+}
+/*yuti*/
+.main{
+	width: 100% ;
+	height: 100%;
+	max-width: 1383px ;
+	max-height: 886px;
+	background-color: #28292B;
+	-webkit-box-shadow: 25px 25px 22px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 25px 25px 22px 0px rgba(0,0,0,0.75);
+box-shadow: 25px 25px 22px 0px rgba(0,0,0,0.75);
+	border-radius: 22px;
+
+}
+.parent{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+
+}
+/*header*/
+.samsung-logo{
+	margin-top: 50px ;
+	margin-left: 50px;
+}
+.header{
+	max-height: 71px;
+	max-width: 1383px;
+	width: 100%;
+	
+}
+.search {
+	margin-left: 822.2px;
+}
+.blog{
+	margin-left: 31px
+}
+.contuct-us{
+	margin-left: 31px;
+}
+/*warwere*/
+.clear{
+	clear: both;
+}
+

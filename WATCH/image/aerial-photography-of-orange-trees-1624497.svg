@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1449" height="952" viewBox="0 0 1449 952">
+  <defs>
+    <filter id="aerial-photography-of-orange-trees-1624497" x="0" y="0" width="1449" height="952" filterUnits="userSpaceOnUse">
+      <feOffset dx="25" dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#aerial-photography-of-orange-trees-1624497)">
+    <rect id="aerial-photography-of-orange-trees-1624497-2" data-name="aerial-photography-of-orange-trees-1624497" width="1383" height="886" rx="22" transform="translate(8 8)" fill="#28292b"/>
+  </g>
+</svg>
